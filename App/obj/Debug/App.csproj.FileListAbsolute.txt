@@ -1,0 +1,22 @@
+C:\Users\medo1\source\repos\App\App\bin\Debug\App.exe
+C:\Users\medo1\source\repos\App\App\bin\Debug\App.pdb
+C:\Users\medo1\source\repos\App\App\bin\Debug\Guna.UI2.dll
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.Form1.resources
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.exe
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.pdb
+C:\Users\medo1\source\repos\App\App\obj\Debug\App.Form2.resources
+F:\siege\سوائل خزان\App\App\bin\Debug\App.exe
+F:\siege\سوائل خزان\App\App\bin\Debug\App.pdb
+F:\siege\سوائل خزان\App\App\bin\Debug\Guna.UI2.dll
+F:\siege\سوائل خزان\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+F:\siege\سوائل خزان\App\App\obj\Debug\App.Form1.resources
+F:\siege\سوائل خزان\App\App\obj\Debug\App.Form2.resources
+F:\siege\سوائل خزان\App\App\obj\Debug\App.Properties.Resources.resources
+F:\siege\سوائل خزان\App\App\obj\Debug\App.csproj.GenerateResource.cache
+F:\siege\سوائل خزان\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+F:\siege\سوائل خزان\App\App\obj\Debug\App.exe
+F:\siege\سوائل خزان\App\App\obj\Debug\App.pdb
